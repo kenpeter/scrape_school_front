@@ -49,7 +49,7 @@ class App extends Component {
         </GoogleMapReact>
 
         <div className="explain">
-          <p><strong>2016 VCE results</strong> by location. Records only contains Median score > 30 points</p>
+          <p><strong>2016 VCE results</strong> by location. Records only contain median score > 30 points</p>
           <p>
             E.g. <u>Westbourne Grammar School 33 14.7</u><br/>
             <strong>School name:</strong> Westbourne Grammar School<br/>
